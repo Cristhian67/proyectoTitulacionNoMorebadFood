@@ -1,0 +1,15 @@
+c:\users\crist\documents\visual studio 2015\Projects\loginLayered\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2019\NoMorebadFood\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2019\NoMorebadFood\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2019\NoMorebadFood\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Crist\Documents\Visual Studio 2019\NoMorebadFood\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2019\NoMorebadFood\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\NoMorebadFood\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\NoMorebadFood\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\NoMorebadFood\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\NoMorebadFood\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\NoMorebadFood\DataAccess\obj\Debug\DataAccess.pdb

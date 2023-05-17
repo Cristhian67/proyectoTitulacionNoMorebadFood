@@ -1,0 +1,16 @@
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\Domain.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\DataAccess.dll
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\Domain.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\bin\Debug\DataAccess.pdb
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.FormPrincipal.resources
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.Login.resources
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.FormAnalisisDatos.resources
+C:\Users\Crist\Documents\Visual Studio 2015\Projects\loginLayered\LOGIN\obj\Debug\LOGIN.GestionDeAlimentos.resources

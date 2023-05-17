@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{542CAE18-F15A-4FD6-B971-C88B3A0DA145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A8E0DDF1-3C0B-4BEF-BF54-A4B5642511A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "LOGIN\Presentacion.csproj", "{34EE023D-07B3-493E-A1EC-89DC1129D2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542CAE18-F15A-4FD6-B971-C88B3A0DA145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542CAE18-F15A-4FD6-B971-C88B3A0DA145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542CAE18-F15A-4FD6-B971-C88B3A0DA145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542CAE18-F15A-4FD6-B971-C88B3A0DA145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E0DDF1-3C0B-4BEF-BF54-A4B5642511A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E0DDF1-3C0B-4BEF-BF54-A4B5642511A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E0DDF1-3C0B-4BEF-BF54-A4B5642511A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E0DDF1-3C0B-4BEF-BF54-A4B5642511A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EE023D-07B3-493E-A1EC-89DC1129D2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EE023D-07B3-493E-A1EC-89DC1129D2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EE023D-07B3-493E-A1EC-89DC1129D2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EE023D-07B3-493E-A1EC-89DC1129D2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8071BFC9-8EBD-4BCA-8974-518CC10EDA87}
+	EndGlobalSection
+EndGlobal

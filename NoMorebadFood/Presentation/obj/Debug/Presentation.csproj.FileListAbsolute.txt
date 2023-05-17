@@ -1,0 +1,4 @@
+c:\users\crist\documents\visual studio 2015\Projects\loginLayered\Presentation\bin\Debug\Presentation.exe.config
+c:\users\crist\documents\visual studio 2015\Projects\loginLayered\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+c:\users\crist\documents\visual studio 2015\Projects\loginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+c:\users\crist\documents\visual studio 2015\Projects\loginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
